@@ -1,0 +1,16 @@
+{
+  "name": "imaya",
+  "version": "1.0.0",
+  "description": "Fly through the world of code",
+  "main": "index.js",
+  "repository": "https://github.com/superhsc/imaya",
+  "author": "superhsc",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
